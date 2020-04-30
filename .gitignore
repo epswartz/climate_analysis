@@ -1,0 +1,4 @@
+# The original data is too big, we include the zipped one though
+data/GlobalLandTemperaturesByCity.csv
+.DS_Store
+.ipynb_checkpoints
